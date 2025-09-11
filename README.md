@@ -16,15 +16,15 @@ A couple projects written in Rust to explore its capabilities.
 
 1. Check that you have Rust installed
 ```
-go version
+rustc --version
 ```
 2. Change directory into module
 ```
-cd mini-grep
+cd mini_grep
 ```
 3. Run code. The command line takes in two arguments. First being the string to search for. The second being the name of file to search.
 ```
-cargo run -- searchstring example-filename.txt
+cargo run -- body poem.txt
 ```
 
 ## Authors
