@@ -4,7 +4,7 @@ A couple projects written in Rust to explore its capabilities.
 
 ## Description
 
-- mini-grep: simple command line tool to imitate grep.
+- mini_grep: simple command line tool to imitate grep.
 
 ## Getting Started
 
