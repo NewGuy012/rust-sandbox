@@ -5,6 +5,7 @@ A couple projects written in Rust to explore its capabilities.
 ## Description
 
 - mini_grep: simple command line tool to imitate grep.
+- hello_web_server: a simple web server that says "hello".
 
 ## Getting Started
 
