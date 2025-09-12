@@ -13,7 +13,7 @@ A couple projects written in Rust to explore its capabilities.
 
 * Rust: [https://go.dev/doc/install](https://www.rust-lang.org/tools/install)
 
-### Executing program
+### Executing mini_grep program
 
 1. Check that you have Rust installed
 ```
@@ -27,6 +27,22 @@ cd mini_grep
 ```
 cargo run -- body poem.txt
 ```
+
+### Executing hello_web_server program
+
+1. Check that you have Rust installed
+```
+rustc --version
+```
+2. Change directory into module
+```
+cd hello_web_server
+```
+3. Run code. 
+```
+cargo run
+```
+4. Open local host, 127.0.0.1:7878, in your browser.
 
 ## Authors
 
